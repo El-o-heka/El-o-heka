@@ -1,3 +1,5 @@
+[README (1).md](https://github.com/El-o-heka/El-o-heka/files/14968998/README.1.md)
+![450px-Tetrapeptide_structural_formulae_v 1](https://github.com/El-o-heka/El-o-heka/assets/166758746/ab1ff528-4d61-453a-ac83-f3e84e077206)
 ![th](https://github.com/El-o-heka/El-o-heka/assets/166758746/cfeca8c6-9145-4c48-8fda-3eaee13373af)
 ![Screenshot_20240412-161928](https://github.com/El-o-heka/El-o-heka/assets/166758746/2485810e-ae23-4c0c-9ede-81af79c053a3)
 - 👋 Hi, I’m @El-o-heka
