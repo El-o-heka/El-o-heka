@@ -7,11 +7,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-El-o-heka/El-o-heka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-lim|n→∞/an+1/an|=lim/n→∞|xn+(n+1)!•n!/xn|lim/n→∞|=lim/n→∞|x/n+1|lim/n→∞|
-x/n+1|0<1|∞/sigma/n=0/xn/n!
-converges & diverges
-for all values of (x)
+x)
