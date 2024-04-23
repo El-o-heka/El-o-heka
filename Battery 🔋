@@ -1,0 +1,17 @@
+                             BATTERY 🔋 
+          CIRCUIT  RESISTOR  CAPACITOR   PARVELL R=V/I
+R=V/I
+  R=RESISTANCE IN OHM'S (V) IS VOLTAGE 
+  EI IS THE CURRENT IN THE AMPHERES
+  X,=1/(2πfc)
+  xc=Capacitive Reactance in ohm's 
+  F=Is frequency and Hertz &
+  C=Is capitiance in farads resistance of circuits 
+  R+o+=R+×c current given in circuit 
+  I=V/R+o+
+"Currents,& circuits ohm's voltage Resistance"
+Voltage across the resistor VR=IR
+"voltage across the capacitor VC=Ic
+Power dispatched by resistorP=I²R
+power dispatched by the capacitor P=I²xc
+Total power dispatched by circuit P+o+=PR+Pc
